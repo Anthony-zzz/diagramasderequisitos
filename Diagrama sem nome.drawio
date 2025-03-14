@@ -353,16 +353,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="keyqljdDxLanFJc3I3mW" name="Página-4">
-    <mxGraphModel dx="1040" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ERZdYq3FRjmjOdWAcDIh-2" value="Cadastro" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ERZdYq3FRjmjOdWAcDIh-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ERZdYq3FRjmjOdWAcDIh-3" target="ERZdYq3FRjmjOdWAcDIh-2">
+        <mxCell id="ERZdYq3FRjmjOdWAcDIh-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ERZdYq3FRjmjOdWAcDIh-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="120" as="sourcePoint" />
+            <mxPoint x="130" y="270" as="sourcePoint" />
             <mxPoint x="60" y="199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -408,7 +408,7 @@
             <mxPoint x="450" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ERZdYq3FRjmjOdWAcDIh-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ERZdYq3FRjmjOdWAcDIh-3" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERZdYq3FRjmjOdWAcDIh-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ERZdYq3FRjmjOdWAcDIh-35">
