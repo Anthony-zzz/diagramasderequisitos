@@ -767,16 +767,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rdzVWPcnPXplGBKCmsXM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rdzVWPcnPXplGBKCmsXM-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rdzVWPcnPXplGBKCmsXM-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;Usuario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ id: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ nome: String&lt;br&gt;+ email: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ senha: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;endereço: string, telefone: string, relizarpedido(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="190" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="rdzVWPcnPXplGBKCmsXM-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Cadastro&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Usuário: list&amp;lt;Usuario&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Cadastro()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ adicionar_usuario(usuario: usuario): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ listar_usuario(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="40" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Vr7ecZTiU09CQziyoi6n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdzVWPcnPXplGBKCmsXM-5" target="rdzVWPcnPXplGBKCmsXM-2">
           <mxGeometry relative="1" as="geometry" />
